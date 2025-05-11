@@ -1,6 +1,6 @@
 <br>
 
-## Quantiles
+## Variational
 
 [variational](https://github.com/repatterning/variational)
 
