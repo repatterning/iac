@@ -45,3 +45,5 @@ terraform.rc
 
 data.txt
 data-base64.txt
+
+emr/
