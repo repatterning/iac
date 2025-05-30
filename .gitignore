@@ -40,5 +40,8 @@ terraform.rc
 /src/**/*.json
 /compute/**/*.json
 
+/src/**/*.yaml
+/compute/**/*.yaml
+
 data.txt
 data-base64.txt
