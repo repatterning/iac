@@ -2,7 +2,7 @@
 
 # Infrastructure as Code
 
-This repository hosts a limited publication infrastructure.  In brief, orchestrations via Amazon's Step Functions control the automatic daily deliveries of products.
+This repository hosts a limited publication of infrastructure code.  In brief, orchestrations via Amazon's Step Functions control the automatic daily deliveries of products.
 
 <br>
 
