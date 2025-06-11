@@ -1,8 +1,8 @@
 <br>
 
-Infracstructure as Code
+# Infrastructure as Code
 
-A limited publication.  Orchestrations via Step Functions control automatic daily deliveries of products.
+This repository hosts a limited/selective publication of infrastructure code.  In general, orchestrations via Amazon's Step Functions control the automatic daily deliveries of products.
 
 <br>
 
