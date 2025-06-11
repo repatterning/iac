@@ -1,6 +1,6 @@
 <br>
 
-# Infrastructure as Code
+## Infrastructure as Code
 
 This repository hosts a limited/selective publication of infrastructure code.  In general, orchestrations via Amazon's Step Functions control the automatic daily deliveries of products.
 
