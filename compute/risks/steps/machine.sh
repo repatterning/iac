@@ -6,7 +6,7 @@ is active, and (b) the machine's underlying task/s is/are active.
 comment
 
 # Path
-path=file://compute/extra/steps
+path=file://compute/risks/steps
 
 # The state machine.
 aws stepfunctions create-state-machine --cli-input-json $path/define.json --definition $path/machine.asl.json
