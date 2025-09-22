@@ -1,0 +1,8 @@
+{
+    "Bucket": "",
+    "NotificationConfiguration": {
+        "EventBridgeConfiguration": {
+        }
+    },
+    "SkipDestinationValidation": true
+}
